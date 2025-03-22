@@ -1,6 +1,6 @@
 
 # Stock Risk Analyzer
-
+![Stock Risk Analyzer UI](stockimage.png)
 ## Overview
 Stock Risk Analyzer is a desktop application designed to assess the risk of stock investments using key financial metrics. The application provides risk analysis based on historical stock data, helping investors make informed decisions.
 
@@ -49,4 +49,6 @@ python stock_analyzer.py
 
 ## License
 This project is licensed under the MIT License.
+
+
 
